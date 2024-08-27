@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: 
       - main
-      # comment6
+      # comment7
       
 env:
    DEPARTMENT: sdr  #e.g sdr, csm
